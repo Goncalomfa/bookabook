@@ -1,3 +1,3 @@
 # bookabook
-BookaBook is a college I did with my friends at college.
-I'm going to transform with solidity, add nfts and make some simillar features.
+BookaBook is a project that I did with my friends on the final year at college.
+I want to transform it with solidity, add nfts and make some simillar features.
